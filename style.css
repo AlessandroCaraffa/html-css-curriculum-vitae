@@ -12,3 +12,15 @@ hr {
 .intestazione {
     text-align: center;
 }
+.immagine {
+    text-align: center;
+    
+}
+.disegno {
+    height: 300px;
+    width: 300px;
+}
+.main {
+    width: 70%;
+    margin:0 auto;
+}
