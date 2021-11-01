@@ -2,7 +2,10 @@
      color: rgb(2, 2, 115);
  }
  main {
-     text-align: center;
+     text-align: end;
+     width: 21%;
+     margin: auto;
+     
  }
  .intestazione {
      text-align: center;
@@ -11,12 +14,19 @@
      height: 30%;
      width: 30%;
  }
- .sfondo {
+ body {
      background-color:#FA6A23;
+     
  }
 h1 {
     color: rgb(2, 2, 115);
 }
+h2 {
+    color: rgb(2, 2, 115);
+}
 footer {
-    background-color: #FA6A23 ;
+    text-align: center;
+}
+p {
+    color: rgb(2, 2, 115);
 }
