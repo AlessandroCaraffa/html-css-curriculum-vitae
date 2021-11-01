@@ -1,1 +1,22 @@
- 
+ label {
+     color: rgb(2, 2, 115);
+ }
+ main {
+     text-align: center;
+ }
+ .intestazione {
+     text-align: center;
+ }
+ .zucca {
+     height: 30%;
+     width: 30%;
+ }
+ .sfondo {
+     background-color:#FA6A23;
+ }
+h1 {
+    color: rgb(2, 2, 115);
+}
+footer {
+    background-color: #FA6A23 ;
+}
